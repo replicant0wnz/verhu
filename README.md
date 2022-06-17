@@ -5,7 +5,7 @@
 [![Latest commit](https://img.shields.io/github/last-commit/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu/commits/main)
 [![LICENSE](https://img.shields.io/github/license/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu/blob/main/LICENSE)
 
-[![Verhu](https://repository-images.githubusercontent.com/504374164/ce42483c-228a-4ce6-a2ab-af425d15a6ef)]
+[Verhu](https://repository-images.githubusercontent.com/504374164/ce42483c-228a-4ce6-a2ab-af425d15a6ef)
 
 ## Running
 
