@@ -1,0 +1,28 @@
+character:
+  name: str
+  class: str
+  description: |
+    text blob
+    goes here
+  class_specific: |
+    text blob
+    goes here
+  stats: str
+    hp: int
+    omens: int
+    abilities:
+      strength: int
+      agility: int
+      presence: int
+      toughness: int
+  equipment:
+    weapons:
+      - weapon 1
+      - weapon 2
+    armour: str
+    silver: int
+    other:
+      - item 1
+      - item 2
+      - item 3
+
