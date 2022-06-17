@@ -4,8 +4,6 @@
 [![Releases](https://img.shields.io/github/v/release/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu/releases)
 [![Latest commit](https://img.shields.io/github/last-commit/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu/commits/main)
 [![LICENSE](https://img.shields.io/github/license/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu/blob/main/LICENSE)
-[![Code size](https://img.shields.io/github/languages/code-size/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu)
-[![Issues](https://img.shields.io/github/issues-raw/replicant0wnz/verhu)](https://github.com/replicant0wnz/verhu/issues)
 
 ## Running
 
