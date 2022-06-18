@@ -4,6 +4,8 @@ import disnake
 from disnake.ext import commands
 from disnake.ext.commands import Context
 
+client = disnake.Client()
+
 class Roll(commands.Cog):
 
     def __init__(self, bot: commands.Bot):

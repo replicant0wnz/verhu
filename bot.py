@@ -20,5 +20,6 @@ async def on_ready():
 
 bot.load_extension("cogs.roll")
 bot.load_extension("cogs.psalm")
+bot.load_extension("cogs.character")
 
 bot.run(TOKEN)
