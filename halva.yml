@@ -1,0 +1,41 @@
+character:
+  name: Halva
+  class: Fanged Deserter
+  description: |
+    'Your earliest memories are of following an army in eastern Wästland.
+    You have thirty or so friends who never let you down: YOUR TEETH. Disloyal, deranged or simply uncontrollable, any group that didn’t boot you out you left anyway. But your parliament of teeth — enormous, protruding, thick and sharp — have always been your allies.
+    Unhelpful and Conflicted. Staring, manic gaze. Obsessively collects small sharp stones.'
+  stats:
+    hp: 5
+    omens: 1
+    abilities:
+      strength: +2
+      agility: 0
+      presence: 1
+      toughness: 0
+    class_specific:
+      clumsy:
+        name: Clumsy and Dull-witted
+        description: |
+          Agility tests are DR+2, excluding defence. You are incapable of 
+          understanding scrolls.
+      bite:
+        name: Bite Attack
+        description: |
+          DR10 to attack, d6 damage. You must be close to your target. 1–2 
+          on d6 chance the enemy gets a free attack.
+      shield:
+        name: Man-sized Tower Shield
+        description: |
+          It’s said that this targe of massive proportions was once the tea 
+          tray of a half-giant tavernkeep. While wielding it, defence is DR10 
+          and uses Strength instead of Agility.
+  equipment:
+    weapons:
+      - Bow d6 damage, with 11 arrows
+    armour: Fur armor -d2 damage, tier 1
+    silver: 60
+    other:
+      - Waterskin and 3 days' worth of food
+      - Bear trap (DR14 to spot, d8 damage)
+      - Tent
